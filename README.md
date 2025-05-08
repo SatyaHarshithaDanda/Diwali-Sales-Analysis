@@ -57,3 +57,5 @@ The dataset includes:
 2. Install required packages:
    ```bash
    pip install pandas numpy matplotlib seaborn
+
+3. Run Diwali_Sales_Analysis.ipynb in Jupyter Notebook or VS Code.
